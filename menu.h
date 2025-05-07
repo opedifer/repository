@@ -5,3 +5,8 @@
 #define ID_EXIT  3
 #define ID_HELP_ABOUT  4
 #define ID_CHANGECOLOR  5
+
+
+//Button
+
+#define ID_BUTTON1 7
